@@ -1,0 +1,38 @@
+.siddu{
+    text-align: center;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: 1fr 1fr 1fr;
+    row-gap: 20px;
+    column-gap: 20px;
+    border: 5px solid;
+    
+    background-color: coral;
+    
+}
+.vaadu{
+    background-color: aqua;
+    margin-top: 10px;
+    padding: 15px;
+    
+
+}
+
+.hey{
+    background-color: blueviolet;
+    margin-top: 10px;
+}
+.vedu{
+    background-color: brown;
+    margin-top: 10px;
+    padding: 4px;
+}
+.pichhi{
+    background-color: blue;
+}
+.fellow{
+    background-color: chartreuse;
+}
+.adhi{
+    background-color: chocolate;
+}
